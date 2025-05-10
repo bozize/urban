@@ -1,0 +1,109 @@
+[
+    {
+      "id": 1,
+      "title": "Juja B 5 Star",
+      "description": "Juja B 5 Star located off Hombe Road in Ushirika Eastleagh, its modern residential development offering stylish apartments with top-notch amenities",
+      "features": [
+        "2, 4 Bedrooms",
+        "mosque + Madrasa"
+    
+        
+        
+      ],
+      "amenities": [
+        "high speed lifts",
+        "generator",
+        "On site management",
+        "manned entry & exit",
+        "Back-up borehole",
+        "Ample parking",
+        "Commercial spaces",
+        "CCTV"
+      ],
+      "address": "Juba B estate, Eastleagh, Nairobi",
+      "images": [
+        "images/five.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "SBC Centre",
+      "description": "Residential and commercial centre in the heart of eastleagh, Nairobi",
+      "features": [
+        "commercial centre"
+        
+    
+        
+        
+      ],
+      
+      "amenities": [
+        "high speed lifts",
+        "generator",
+        "On site management",
+        "manned entry & exit",
+        "Back-up borehole",
+        "Ample parking",
+        "Commercial spaces",
+        "CCTV"
+      ],
+      "address": "Juba B estate, Eastleagh, Nairobi",
+      "images": [
+        "images/image1.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Qaryah II Tower",
+      "description": "Qaryah II Tower located off Hombe Road in Ushirika Eastleagh, its modern residential development offering stylish apartments with top-notch amenities",
+      "features": [
+        "2, 3, 4 Bedrooms",
+        "mosque + Madrasa"
+    
+        
+        
+      ],
+      "amenities": [
+        "3 high speed lifts",
+        "Back-up generator",
+        "On site management",
+        "manned entry & exit",
+        "Back-up borehole",
+        "Ample parking",
+        "Commercial spaces"
+      ],
+      "address": "Eastleagh, Nairobi",
+      "images": [
+        "images/Qaryah.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FINSBURY Heights",
+      "description": "Welcome home to a life of elegance and convenience located in the heart of parklands nairobi",
+      "features": [
+        "2, 3, 4 Bedrooms",
+        "mosque + Madrasa"
+    
+        
+        
+      ],
+      "amenities": [
+        "Residence Reception",
+        "Back-up generator",
+        "Manned security",
+        "CCTV surveillance",
+        "Apartment & Elderly gym",
+        "Childrens Playroom",
+        "Open air swimming Pool",
+        "Ample parking"
+      ],
+      "address": "Parklands, Nairobi",
+      "images": [
+        "images/finsbury.jpeg",
+        "images/finsbury2.jpeg"
+
+      ]
+    }
+]
+  
