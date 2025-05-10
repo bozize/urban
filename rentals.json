@@ -47,7 +47,7 @@
         "Commercial spaces",
         "CCTV"
       ],
-      "address": "Juba B estate, Eastleagh, Nairobi",
+      "address": "Eastleagh, Nairobi",
       "images": [
         "images/image1.jpeg"
       ]
@@ -55,7 +55,7 @@
     {
       "id": 3,
       "title": "Qaryah II Tower",
-      "description": "Qaryah II Tower located off Hombe Road in Ushirika Eastleagh, its modern residential development offering stylish apartments with top-notch amenities",
+      "description": "Qaryah II Tower located off Hombe Road in Juja B estate Eastleagh, its modern residential development offering stylish apartments with top-notch amenities",
       "features": [
         "2, 3, 4 Bedrooms",
         "mosque + Madrasa"
