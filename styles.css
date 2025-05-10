@@ -890,6 +890,17 @@ h1, h2, h3, h4 {
     .hero-subtitle {
       font-size: 0.95em; /* Smaller subtitle */
     }
+
+    footer {
+      text-align: center;
+      padding: 30px 15px;
+      font-size: 0.9em;
+    }
+  
+    footer .footer-links {
+      flex-direction: column;
+      gap: 10px;
+    }
   
 }
 
@@ -967,6 +978,19 @@ h1, h2, h3, h4 {
     word-break: break-word;
     font-weight: 600;
   }
+  footer {
+    font-size: 0.8em;
+    padding: 20px 10px;
+  }
+
+  footer .footer-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  footer .footer-links a {
+    margin: 4px 0;
+  }
 }
 
 
@@ -982,5 +1006,13 @@ h1, h2, h3, h4 {
 
   #hero {
     height: 280px; /* Adjust height for very small screens */
+  }
+  footer {
+    font-size: 0.75em;
+  }
+
+  footer .footer-links {
+    flex-direction: column;
+    text-align: center;
   }
 }
